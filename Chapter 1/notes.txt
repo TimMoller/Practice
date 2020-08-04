@@ -1,0 +1,62 @@
+PYTHON BASICS
+
+1. Expressions
+Expressions consist of values and operators.
+    values = {numbers, strings, lists, etc.} a subject for the information
+    operators = {+ - * /} how the sumbect is working
+
+Expressions can evaluate (reduce to a single value)
+
+e.g.
+>>> 2 + 2 / 4
+2.5
+_____________________________________________________
+
+2. Data types
+
+    i.  Integers    -   Whole numbers
+    ii. Floats      -   Decimal point numbers
+    iii.Strings     -   anything in quotation marks
+
+
+Conc atination: joining or addin two values of the same datat type
+
+e.g.
+>>> "Alice" + "Bob"
+'AliceBob'
+
+
+Multiplication
+Strings:
+>>> "Alice" * 5
+"AliceAliceAliceAliceAlice"
+
+Integers:
+>>> 5 * 5
+25
+
+Floats:
+>>> 5.0 * 5
+25.0
+_____________________________________________________
+
+3. Variables
+
+A variable is like box for storiang a value to be recalled later
+
+Assignment statements:
+A value stored in a variable are done by stating the assignment of that value to the variable name
+
+e.g.
+>>> spam = 42
+>>> spam
+42
+
+Variables can also be concatinated
+
+e.g.
+>>> spam = 40
+>>> eggs = 2
+>>> spam + eggs
+42
+
