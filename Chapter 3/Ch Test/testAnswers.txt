@@ -1,0 +1,10 @@
+1.  Functions are chunks of code that can be recalled for various purposes code
+2.  Functions are only executed when they are called, not when they are defined
+3.  "def...():""  # this is the statement used to define a function.
+4.  functions define specific actions, function calls execute the actions defined by the function
+5.  any variable outside of functions are said to be at the global scope,
+    variables inside of functions are said to be in the local scope
+6.  once the function call returns all variables are destroyed in favour of global variables
+7.  return values are values output from a function, these can be used in other expressions
+8.  if a function does not have a valid return statement it is an exception statement or an Error
+9.
