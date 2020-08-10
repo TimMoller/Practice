@@ -1,4 +1,4 @@
-spam = ['apples', 'bananas', 'tofu', 'trebble cleff', 'cats']
+spam = ['apples', 'bananas', 'tofu', 'trebble cleff', 17, 'cats']
 
 def stringify(list):
     for i in range(len(list)-1):
