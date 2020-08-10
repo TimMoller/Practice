@@ -1,0 +1,19 @@
+1.  [] is an index marker or marker of a list
+2.  spam[2] = 'hello'
+3.  'd'
+4.  'd'
+5.  'a','b'  # remember that the last index is not inclusive
+6.  1
+7.  [3.14, 'cat', 11, 'cat', True, 99]
+8.  [3.14, 11, 'cat', True]
+9.  + & *
+10. sppend adds a value to the end of a list, insert adds a value to a specific index in the list
+11. del list[], list.remove()
+12. strings and lists both can be indexed
+13. strings values can be changed (mutable), tuple values cannot be changed (immutable)
+14. tuple = ((42,))
+15. list(tuple) & tuple(list)
+16. varables that contain a list actually hold a reference to that list.
+    So any variable with the reference to that same list will change the list if mutated.
+17. copy.copy() creates a copy of a list
+    copy.deepcopy() creates a copy of a list stored in a list

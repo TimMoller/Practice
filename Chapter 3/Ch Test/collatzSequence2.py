@@ -14,6 +14,7 @@ while True:
         else:
             break
     except ValueError:
+        print("not a number")
         continue
 
 print(collatz(guess))
