@@ -1,0 +1,14 @@
+1.  dictionary = {}
+2.  dictionary = {'foo':42}
+3.  A list holds items in a sequence.
+    Dictionaries are not ordered but have keys and corresponding items.
+4.  KeyError
+5.  spam['cat'] will return the item(s) associated with the key = 'cat'
+    spam.keys() will return dict_keys(['cat'])
+6.  spam['cat'] will return the item(s) associated with the key = 'cat'
+    spam.values() will return dict_values([value])
+7.  .setdefault('key', (defaultValue))
+8.  import pprint
+    pprint.pprint()
+    OR
+    prprint.pformat() # this will return the format of the pprint without actually printing it.
