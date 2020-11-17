@@ -1,3 +1,5 @@
 This is a notes file for the tests in this chapter:
 
 This is a test.
+
+I am also testing to see that the .git works betwqeen repositories in VS code.
