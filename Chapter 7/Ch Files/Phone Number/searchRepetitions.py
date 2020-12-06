@@ -1,6 +1,6 @@
 import re
 
-heroRegex = re.compile(r'Bat(wo)?man')
+heroRegex = re.compile(r'(Ha){3}') ## the {} qualifies the specific number of repetitions
 mo1 = heroRegex.search('The adventures of Batman')
 mo1.group()
 
